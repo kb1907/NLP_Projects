@@ -25,7 +25,7 @@
 4. [Sentiment Analysis by Using Machine Learning and Deep Learning Models](https://github.com/kb1907/NLP_Projects/blob/main/Sentiment_Analysis_ML_DL_Models/SENTIMENT%20ANALYSIS%20by%20USING%20MACHINE%20LEARNING%20and%20DEEP%20LEARNING%20ALGORITHMS.ipynb)
 
  
-<img src="https://www.mdpi.com/electronics/electronics-09-00483/article_deploy/html/images/electronics-09-00483-g001-550.jpg" width="400" height="400">
+<img src="https://www.mdpi.com/electronics/electronics-09-00483/article_deploy/html/images/electronics-09-00483-g001-550.jpg">
 
 
 5. [Spam Collection](https://github.com/kb1907/NLP_Projects/blob/main/Spam_Collection/Spam_Collection.ipynb)
