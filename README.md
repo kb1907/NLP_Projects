@@ -31,7 +31,7 @@
 
 6. [Transformers - Sentiment Analysis](https://github.com/kb1907/NLP_Projects/blob/main/Transformers_Sentiment_Analysis/Transformers_Sentiment_Analysis.ipynb)
 
-<img src="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-981-16-2594-7_69/MediaObjects/506697_1_En_69_Fig1_HTML.png" width="400" height="400">
+<img src="https://i.pinimg.com/originals/b8/2b/6f/b82b6f0d01d21a2ca4d91992d941fa90.png" width="400" height="400">
 
 7. [Spam Collection](https://github.com/kb1907/NLP_Projects/blob/main/Spam_Collection/Spam_Collection.ipynb)
 
