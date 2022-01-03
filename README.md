@@ -24,7 +24,7 @@
 
 4. [Sentiment Analysis by Using Machine Learning and Deep Learning Models](https://github.com/kb1907/NLP_Projects/blob/main/Sentiment_Analysis_ML_DL_Models/SENTIMENT%20ANALYSIS%20by%20USING%20MACHINE%20LEARNING%20and%20DEEP%20LEARNING%20ALGORITHMS.ipynb)
 
-<img src="https://s3.amazonaws.com/aylien-main/misc/blog/images/nlp-language-dependence-small.png" width="400" height="400">
+<img src="https://s3.amazonaws.com/aylien-main/misc/blog/images/nlp-language-dependence-small.png" width="500" height="500">
 
 
 
