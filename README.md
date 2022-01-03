@@ -22,10 +22,10 @@
 
 ![](https://www.researchgate.net/publication/337152954/figure/fig3/AS:834618223755264@1575999899021/The-proposed-GRU-Embedding-base-architecture-for-text-classification.ppm)
 
-4. [Sentiment analysis by using Machine Learning and Deep LEarning Models]()
+4. [Sentiment analysis by using Machine Learning and Deep LEarning Models](https://github.com/kb1907/NLP_Projects/blob/main/Sentiment_Analysis_ML_DL_Models/SENTIMENT%20ANALYSIS%20by%20USING%20MACHINE%20LEARNING%20and%20DEEP%20LEARNING%20ALGORITHMS.ipynb)
 
-4. [Spam Collection](https://github.com/kb1907/NLP_Projects/blob/main/Spam_Collection/Spam_Collection.ipynb)
-5. 
+5. [Spam Collection](https://github.com/kb1907/NLP_Projects/blob/main/Spam_Collection/Spam_Collection.ipynb)
+
 
 
 
