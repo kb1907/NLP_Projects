@@ -16,7 +16,7 @@
 
 2. [Comment Classification by using 1D CNN with Keras](https://github.com/kb1907/NLP_Projects/blob/main/CNN_Text_Classification/Comments_Classification_using_1D_CNN_with_Keras.ipynb8)
 
-<img src="https://miro.medium.com/max/1838/0*0efgxnFIaLTZ2qkY" width="300">
+<img src="https://miro.medium.com/max/1838/0*0efgxnFIaLTZ2qkY" width="350">
 
 3. [Spam Collection](https://github.com/kb1907/NLP_Projects/blob/main/Spam_Collection/Spam_Collection.ipynb)
 4. 
