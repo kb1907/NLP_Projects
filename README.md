@@ -26,9 +26,14 @@
 
 <img src="https://s3.amazonaws.com/aylien-main/misc/blog/images/nlp-language-dependence-small.png" width="500" height="500">
 
+5. [A Gentle Intro to Transformers](https://github.com/kb1907/NLP_Projects/blob/main/A_Gentle_intro_to_Transformers/A%20Gentle%20Intro%20to%20Transformers.ipynb)
 
 
-5. [Spam Collection](https://github.com/kb1907/NLP_Projects/blob/main/Spam_Collection/Spam_Collection.ipynb)
+6. [Transformers - Sentiment Analysis](https://github.com/kb1907/NLP_Projects/blob/main/Transformers_Sentiment_Analysis/Transformers_Sentiment_Analysis.ipynb)
+
+<img src="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-981-16-2594-7_69/MediaObjects/506697_1_En_69_Fig1_HTML.png" width="400" height="400">
+
+7. [Spam Collection](https://github.com/kb1907/NLP_Projects/blob/main/Spam_Collection/Spam_Collection.ipynb)
 
 
 
