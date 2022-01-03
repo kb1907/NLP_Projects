@@ -11,12 +11,15 @@
 ### NLP Projects
 
 1. [BERT for Text Classification](https://github.com/kb1907/NLP_Projects/blob/main/BERT/BERT_for_Text_Classification_with_TensorFlow.ipynb)
+
+![](https://miro.medium.com/max/1248/1*S5CdrFyfZvTIfNfS3oqo1A.png)
+
 2. 
 
 
 
 
-![](https://miro.medium.com/max/1248/1*S5CdrFyfZvTIfNfS3oqo1A.png)
+
 
 
 
