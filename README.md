@@ -14,7 +14,8 @@
 
 ![](https://miro.medium.com/max/1248/1*S5CdrFyfZvTIfNfS3oqo1A.png)
 
-2. 
+2. [Spam Collection](https://github.com/kb1907/NLP_Projects/blob/main/Spam_Collection/Spam_Collection.ipynb)
+3. 
 
 
 
