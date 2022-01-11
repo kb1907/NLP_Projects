@@ -14,7 +14,7 @@
 
 ![](https://miro.medium.com/max/1248/1*S5CdrFyfZvTIfNfS3oqo1A.png)
 
-2. [Comment Classification by using 1D CNN with Keras](https://github.com/kb1907/NLP_Projects/blob/main/CNN_Text_Classification/Comments_Classification_using_1D_CNN_with_Keras.ipynb8)
+2. [Comment Classification by using 1D CNN with Keras](https://github.com/kb1907/NLP_Projects/blob/main/CNN_Text_Classification/Comments_Classification_using_1D_CNN_with_Keras.ipynb)
 
 <img src="https://miro.medium.com/max/1838/0*0efgxnFIaLTZ2qkY" width="400" height="400">
 
