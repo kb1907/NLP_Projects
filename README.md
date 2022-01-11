@@ -16,7 +16,6 @@
 
 2. [Comment Classification by using 1D CNN with Keras](https://github.com/kb1907/NLP_Projects/blob/main/CNN_Text_Classification/Comments_Classification_using_1D_CNN_with_Keras.ipynb)
 
-<img src="https://miro.medium.com/max/1838/0*0efgxnFIaLTZ2qkY" width="400" height="400">
 
 3. [Comment Classification by using GRU](https://github.com/kb1907/NLP_Projects/blob/main/GRU_Text_Classification/Comment%20Classification%20by%20Using%20GRU.ipynb)
 
