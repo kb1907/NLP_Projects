@@ -12,7 +12,7 @@
 
 1. [BERT for Text Classification](https://github.com/kb1907/NLP_Projects/blob/main/BERT/BERT_for_Text_Classification_with_TensorFlow.ipynb)
 
-<img src="https://miro.medium.com/max/1248/1*S5CdrFyfZvTIfNfS3oqo1A.png" width="500" height="500">
+<img src="https://miro.medium.com/max/1248/1*S5CdrFyfZvTIfNfS3oqo1A.png" width="600" height="500">
 
 
 2. [Comment Classification by using 1D CNN with Keras](https://github.com/kb1907/NLP_Projects/blob/main/CNN_Text_Classification/Comments_Classification_using_1D_CNN_with_Keras.ipynb)
