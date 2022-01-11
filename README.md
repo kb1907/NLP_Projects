@@ -12,11 +12,12 @@
 
 1. [BERT for Text Classification](https://github.com/kb1907/NLP_Projects/blob/main/BERT/BERT_for_Text_Classification_with_TensorFlow.ipynb)
 
-![](https://miro.medium.com/max/1248/1*S5CdrFyfZvTIfNfS3oqo1A.png)
+<img src="https://miro.medium.com/max/1248/1*S5CdrFyfZvTIfNfS3oqo1A.png" width="500" height="500">
+
 
 2. [Comment Classification by using 1D CNN with Keras](https://github.com/kb1907/NLP_Projects/blob/main/CNN_Text_Classification/Comments_Classification_using_1D_CNN_with_Keras.ipynb)
 
-![](https://www.researchgate.net/profile/Kamran-Kowsari/publication/332463886/figure/fig23/AS:750926574927874@1556046255189/Convolutional-neural-network-CNN-architecture-for-text-classification.png)
+<img src="https://www.researchgate.net/profile/Kamran-Kowsari/publication/332463886/figure/fig23/AS:750926574927874@1556046255189/Convolutional-neural-network-CNN-architecture-for-text-classification.png" width="500" height="500">
 
 3. [Comment Classification by using GRU](https://github.com/kb1907/NLP_Projects/blob/main/GRU_Text_Classification/Comment%20Classification%20by%20Using%20GRU.ipynb)
 
