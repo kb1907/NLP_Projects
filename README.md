@@ -17,7 +17,7 @@
 <img src="https://miro.medium.com/max/1248/1*S5CdrFyfZvTIfNfS3oqo1A.png" width="600" height="500">
 
 
-### 2. [Transfer LEarning with Tensorflow Hub](https://github.com/kb1907/NLP_Projects/blob/main/Transfer_Learning_TF_Hub/Transfer_Learning_NLP_TF_Hub.ipynb)
+### 2. [Transfer Learning with Tensorflow Hub](https://github.com/kb1907/NLP_Projects/blob/main/Transfer_Learning_TF_Hub/Transfer_Learning_NLP_TF_Hub.ipynb)
 
 <img src="https://user-images.githubusercontent.com/51021282/149168232-88ff8f9c-2302-4ddd-a56e-13983e2b65d8.png" width="600" height="500">
 
