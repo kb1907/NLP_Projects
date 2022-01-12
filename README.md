@@ -19,7 +19,7 @@
 
 ### 2. [Transfer LEarning with Tensorflow Hub](https://github.com/kb1907/NLP_Projects/blob/main/Transfer_Learning_TF_Hub/Transfer_Learning_NLP_TF_Hub.ipynb)
 
-<img src="https://user-images.githubusercontent.com/51021282/149168232-88ff8f9c-2302-4ddd-a56e-13983e2b65d8.png" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/51021282/149168232-88ff8f9c-2302-4ddd-a56e-13983e2b65d8.png" width="600" height="500">
 
 
 ### 3. [Comment Classification by using 1D CNN with Keras](https://github.com/kb1907/NLP_Projects/blob/main/CNN_Text_Classification/Comments_Classification_using_1D_CNN_with_Keras.ipynb)
