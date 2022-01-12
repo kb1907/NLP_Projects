@@ -38,6 +38,8 @@
 
 ### 7. [Spam Collection](https://github.com/kb1907/NLP_Projects/blob/main/Spam_Collection/Spam_Collection.ipynb)
 
+### 8. [Named Entity Recognition (NER) with LSTM](https://github.com/kb1907/NLP_Projects/tree/main/Named_Entity_Recognition)
+
 
 
 
