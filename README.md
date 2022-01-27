@@ -45,6 +45,19 @@
 
 ### 9. [Named Entity Recognition (NER) with LSTM](https://github.com/kb1907/NLP_Projects/blob/main/Named_Entity_Recognition/Named_Entity_Recognition_using_LSTM.ipynb)
 
+## 10. [Dinosaur Island-Character-Level Language Modeling](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Sequence%20Models/Week1/Programming%20Assignment_Dinosaurus_Island_Character_level_language_model.ipynb)
+
+## 11.[Jazz Improvisation with LSTM](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Sequence%20Models/Week1/Programming%20Assignment_Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb)
+
+## 12. [Operations on Word Vectors - Debiasing](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Sequence%20Models/Week2/Programming%20Assignment_Operations_on_word_vectors_v2a.ipynb)
+
+## 13. [Emojify](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Sequence%20Models/Week2/Programming%20Assignment_Emoji_v3a.ipynb)
+
+## 14. [Neural Machine Translation](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Sequence%20Models/Week3/Programming%20Assignment_Neural_machine_translation_with_attention_v4a.ipynb)
+
+## 15. [Trigger Word Detection](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Sequence%20Models/Week3/Programming%20Assignment_Trigger_word_detection_v2a.ipynb)
+
+## 16. [Transformers Architecture with TensorFlow](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Sequence%20Models/Week4/Programming%20Assignment_Transformer_Subclass_v1.ipynb)
 
 
 
