@@ -51,16 +51,27 @@
 
 ### 11. [Jazz Improvisation with LSTM](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Sequence%20Models/Week1/Programming%20Assignment_Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb)
 
+![Screen Shot 2022-01-27 at 10 51 45 AM](https://user-images.githubusercontent.com/51021282/151324581-84fa75f8-e5da-4c9e-b2ce-048f6d101bb5.png)
+
+
 ### 12. [Operations on Word Vectors - Debiasing](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Sequence%20Models/Week2/Programming%20Assignment_Operations_on_word_vectors_v2a.ipynb)
 
+![Screen Shot 2022-01-27 at 10 54 12 AM](https://user-images.githubusercontent.com/51021282/151325004-53a35f53-25b0-43f2-b69f-a6b2a0d0dad4.png)
+
+
 ### 13. [Emojify](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Sequence%20Models/Week2/Programming%20Assignment_Emoji_v3a.ipynb)
+
+![Screen Shot 2022-01-27 at 10 56 23 AM](https://user-images.githubusercontent.com/51021282/151325369-ee65b9e0-6010-4a48-86e4-a5b9f407d66b.png)
 
 ### 14. [Neural Machine Translation](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Sequence%20Models/Week3/Programming%20Assignment_Neural_machine_translation_with_attention_v4a.ipynb)
 
 ### 15. [Trigger Word Detection](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Sequence%20Models/Week3/Programming%20Assignment_Trigger_word_detection_v2a.ipynb)
 
+![Screen Shot 2022-01-27 at 11 00 07 AM](https://user-images.githubusercontent.com/51021282/151325972-afecac95-0403-48ee-aa6b-c0e35a2eb61c.png)
+
 ### 16. [Transformers Architecture with TensorFlow](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Sequence%20Models/Week4/Programming%20Assignment_Transformer_Subclass_v1.ipynb)
 
+![Screen Shot 2022-01-27 at 11 02 59 AM](https://user-images.githubusercontent.com/51021282/151326396-0d372a53-ace6-4144-a727-14a378986a1c.png)
 
 
 
