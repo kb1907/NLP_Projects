@@ -46,8 +46,10 @@
 ### 9. [Named Entity Recognition (NER) with LSTM](https://github.com/kb1907/NLP_Projects/blob/main/Named_Entity_Recognition/Named_Entity_Recognition_using_LSTM.ipynb)
 
 ### 10. [Dinosaur Island-Character-Level Language Modeling](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Sequence%20Models/Week1/Programming%20Assignment_Dinosaurus_Island_Character_level_language_model.ipynb)
+![Screen Shot 2022-01-27 at 10 46 58 AM](https://user-images.githubusercontent.com/51021282/151323756-95d89622-02e3-49d8-a43d-45228445e894.png)
 
-### 11.[Jazz Improvisation with LSTM](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Sequence%20Models/Week1/Programming%20Assignment_Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb)
+
+### 11. [Jazz Improvisation with LSTM](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Sequence%20Models/Week1/Programming%20Assignment_Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb)
 
 ### 12. [Operations on Word Vectors - Debiasing](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Sequence%20Models/Week2/Programming%20Assignment_Operations_on_word_vectors_v2a.ipynb)
 
