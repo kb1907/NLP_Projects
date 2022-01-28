@@ -79,6 +79,17 @@
 ![Screen Shot 2022-01-27 at 11 02 59 AM](https://user-images.githubusercontent.com/51021282/151326396-0d372a53-ace6-4144-a727-14a378986a1c.png)
 
 
+---------------------------------------
+## Projects From [Natural Language Processing Specialization](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/README.md)
+------------------------------------------
+
+### 17. [Sentiment analysis of tweets using Logistic Regression](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week1/Programming_Assignment_Logistic-Regression.ipynb)
+
+### 18. [Sentiment analysis of tweets using Naïve Bayes](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week2/Programming%20Assignment_Naive%20Bayes.ipynb)
+
+### 19. [Vector Space Models](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week3/Programming%20Assignment_Vector%20Space%20Models.ipynb)
+
+### 20. [Naive Machine Translation and LSH](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week4/Programming%20Assignment_Word%20Translation.ipynb)
 
 
 
