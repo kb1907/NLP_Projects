@@ -1,7 +1,8 @@
 # **NLP Projects**
 ---------------------------------------------------------
+<img src="https://canopylab.com/wp-content/uploads/2019/11/shutterstock_1455391502-2.jpg" width="600" height="500">
 
-![](https://canopylab.com/wp-content/uploads/2019/11/shutterstock_1455391502-2.jpg)
+
 
 
 - In this folder, different scale NLP projects can be found.
@@ -14,7 +15,7 @@
 
 ### 1. [BERT for Text Classification](https://github.com/kb1907/NLP_Projects/blob/main/BERT/BERT_for_Text_Classification_with_TensorFlow.ipynb)
 
-<img src="https://miro.medium.com/max/1248/1*S5CdrFyfZvTIfNfS3oqo1A.png" width="600" height="500">
+<img src="https://miro.medium.com/max/1248/1*S5CdrFyfZvTIfNfS3oqo1A.png" width="400" height="300">
 
 
 ### 2. [Transfer Learning with Tensorflow Hub](https://github.com/kb1907/NLP_Projects/blob/main/Transfer_Learning_TF_Hub/Transfer_Learning_NLP_TF_Hub.ipynb)
