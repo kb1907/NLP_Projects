@@ -83,15 +83,32 @@
 ## Projects From [Natural Language Processing Specialization](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/README.md)
 ------------------------------------------
 
-### 17. [Sentiment analysis of tweets using Logistic Regression](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week1/Programming_Assignment_Logistic-Regression.ipynb)
+### 17. [Sentiment Analysis of Tweets using Logistic Regression](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week1/Programming_Assignment_Logistic-Regression.ipynb)
 
-### 18. [Sentiment analysis of tweets using Naïve Bayes](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week2/Programming%20Assignment_Naive%20Bayes.ipynb)
+### 18. [Sentiment Analysis of Tweets using Naïve Bayes](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week2/Programming%20Assignment_Naive%20Bayes.ipynb)
 
 ### 19. [Vector Space Models](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week3/Programming%20Assignment_Vector%20Space%20Models.ipynb)
 
 ### 20. [Naive Machine Translation and LSH](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week4/Programming%20Assignment_Word%20Translation.ipynb)
 
+### 21. [Auto-correct algorithm using minimum edit distance and dynamic programming](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week1/Programming%20Assignment_Autocorrect.ipynb)
+### 22. [Parts-of-Speech Tagging (POS)](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week2/Programming%20Assignment_Part%20of%20Speech%20Tagging.ipynb)
+### 23. [Auto-complete algorithm using an N-gram language model](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week3/Programming%20Assignment_Autocomplete.ipynb)
+### 24. [Word Embeddings- Continuous Bag of Words (CBOW) model](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week4/Programming%20Assignment_Word%20Embeddings.ipynb)
 
 
+### 25. [Sentiment Analysis with Deep Neural Networks](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Sequence%20Models/Week1/Programming%20Assignment_Sentiment%20with%20Deep%20Neural%20Networks.ipynb)
+### 26. [Synthetic Shakespeare text using a Gated Recurrent Unit (GRU) language model](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Sequence%20Models/Week2/Programming%20Assignment_Deep%20N-grams.ipynb)
+### 27. [Named Entity Recognition (NER) using LSTM](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Sequence%20Models/Week3/Programming%20Assignment_Named%20Entity%20Recognition%20(NER).ipynb)
+### 28. [Question duplicates using Siamese LSTM models](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Sequence%20Models/Week4/Programming%20Assignment_Question%20Duplicates.ipynb)
 
+
+### 29. [Neural Machine Translation using an Encoder-Decoder Attention Model](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Attention%20Models/Week1/Programming%20Assignment_NMT%20with%20Attention.ipynb)
+### 30. [Transformer Summarizer](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Attention%20Models/Week2/Programming%20Assignment_Transformer%20Summarizer.ipynb)
+### 31. [Question Answering using Text to Text Transfer from Transformers and BERT models](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Attention%20Models/Week3/Programming%20Assignment_Question%20Answering.ipynb)
+### 32. [Chatbot](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Attention%20Models/Week4/Programming%20Assignment_Chatbot.ipynb)
+
+
+------------------------
+All the best 🤘
 
