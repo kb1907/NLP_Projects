@@ -47,7 +47,9 @@
 ### 8. [Spam Collection](https://github.com/kb1907/NLP_Projects/blob/main/Spam_Collection/Spam_Collection.ipynb)
 
 ### 9. [Named Entity Recognition (NER) with LSTM](https://github.com/kb1907/NLP_Projects/blob/main/Named_Entity_Recognition/Named_Entity_Recognition_using_LSTM.ipynb)
-
+---------------------------------------
+## Projects From [Deep Learning Specialization](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/README.md)
+------------------------------------------
 ### 10. [Dinosaur Island-Character-Level Language Modeling](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Sequence%20Models/Week1/Programming%20Assignment_Dinosaurus_Island_Character_level_language_model.ipynb)
 ![Screen Shot 2022-01-27 at 10 46 58 AM](https://user-images.githubusercontent.com/51021282/151323756-95d89622-02e3-49d8-a43d-45228445e894.png)
 
