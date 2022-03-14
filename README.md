@@ -27,7 +27,6 @@
 <img src="https://www.researchgate.net/profile/Kamran-Kowsari/publication/332463886/figure/fig23/AS:750926574927874@1556046255189/Convolutional-neural-network-CNN-architecture-for-text-classification.png" width="400" height="300">
 
 
-
 ### 4. [Comment Classification by using GRU](https://github.com/kb1907/NLP_Projects/blob/main/GRU_Text_Classification/Comment%20Classification%20by%20Using%20GRU.ipynb)
 
 <img src="https://www.researchgate.net/publication/337152954/figure/fig3/AS:834618223755264@1575999899021/The-proposed-GRU-Embedding-base-architecture-for-text-classification.ppm" width="400" height="300">
