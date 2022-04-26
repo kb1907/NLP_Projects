@@ -8,7 +8,6 @@
 - This folder will be updated constantly.
 - All the best 🤘
 
-
 ## NLP Projects
 
 --------------------------------------------------------------
