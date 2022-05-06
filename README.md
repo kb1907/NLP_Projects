@@ -31,7 +31,6 @@
 
 ### 5. [Sentiment Analysis by Using Machine Learning and Deep Learning Models](https://github.com/kb1907/NLP_Projects/blob/main/Sentiment_Analysis_ML_DL_Models/SENTIMENT%20ANALYSIS%20by%20USING%20MACHINE%20LEARNING%20and%20DEEP%20LEARNING%20ALGORITHMS.ipynb)
 
-
 <img src="https://s3.amazonaws.com/aylien-main/misc/blog/images/nlp-language-dependence-small.png" width="400" height="300">
 
 ### 6. [A Gentle Intro to Transformers](https://github.com/kb1907/NLP_Projects/blob/main/A_Gentle_intro_to_Transformers/A%20Gentle%20Intro%20to%20Transformers.ipynb)
