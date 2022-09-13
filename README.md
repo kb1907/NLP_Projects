@@ -15,11 +15,14 @@
 
 <img src="https://miro.medium.com/max/1248/1*S5CdrFyfZvTIfNfS3oqo1A.png" width="400" height="300">
 
+
 ### 2. [Transfer Learning with Tensorflow Hub](https://github.com/kb1907/NLP_Projects/blob/main/Transfer_Learning_TF_Hub/Transfer_Learning_NLP_TF_Hub.ipynb)
 
 <img src="https://user-images.githubusercontent.com/51021282/149168232-88ff8f9c-2302-4ddd-a56e-13983e2b65d8.png" width="400" height="300">
 
+
 ### 3. [Comment Classification by using 1D CNN with Keras](https://github.com/kb1907/NLP_Projects/blob/main/CNN_Text_Classification/Comments_Classification_using_1D_CNN_with_Keras.ipynb)
+
 
 <img src="https://www.researchgate.net/profile/Kamran-Kowsari/publication/332463886/figure/fig23/AS:750926574927874@1556046255189/Convolutional-neural-network-CNN-architecture-for-text-classification.png" width="400" height="300">
 
