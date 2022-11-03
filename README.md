@@ -10,6 +10,7 @@
 
 ## NLP Projects
 
+
 --------------------------------------------------------------
 ### 1. [BERT for Text Classification](https://github.com/kb1907/NLP_Projects/blob/main/BERT/BERT_for_Text_Classification_with_TensorFlow.ipynb)
 
@@ -119,6 +120,7 @@
 <img src="https://user-images.githubusercontent.com/51021282/151516170-c5fe2607-8ee3-464f-b9e2-965ca4c57e75.png" width="400" height="300">
 
 
+
 ### 28. [Question duplicates using Siamese LSTM models](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Sequence%20Models/Week4/Programming%20Assignment_Question%20Duplicates.ipynb)
 
 <img src="https://user-images.githubusercontent.com/51021282/151516591-11fb4247-90c3-41f6-ac44-9f909d2f58d3.png" width="400" height="300">
@@ -127,6 +129,7 @@
 ### 29. [Neural Machine Translation using an Encoder-Decoder Attention Model](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Attention%20Models/Week1/Programming%20Assignment_NMT%20with%20Attention.ipynb)
 
 <img src="https://user-images.githubusercontent.com/51021282/151517130-08a4dae4-34d4-4686-a4c4-4b028ce6e060.png" width="400" height="300">
+
 
 
 ### 30. [Transformer Summarizer](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/Natural%20Language%20Processing%20with%20Attention%20Models/Week2/Programming%20Assignment_Transformer%20Summarizer.ipynb)
