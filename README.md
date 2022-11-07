@@ -25,7 +25,6 @@
 ### 3. [Comment Classification by using 1D CNN with Keras](https://github.com/kb1907/NLP_Projects/blob/main/CNN_Text_Classification/Comments_Classification_using_1D_CNN_with_Keras.ipynb)
 
 
-
 <img src="https://www.researchgate.net/profile/Kamran-Kowsari/publication/332463886/figure/fig23/AS:750926574927874@1556046255189/Convolutional-neural-network-CNN-architecture-for-text-classification.png" width="400" height="300">
 
 
@@ -38,6 +37,7 @@
 <img src="https://s3.amazonaws.com/aylien-main/misc/blog/images/nlp-language-dependence-small.png" width="400" height="300">
 
 ### 6. [A Gentle Intro to Transformers](https://github.com/kb1907/NLP_Projects/blob/main/A_Gentle_intro_to_Transformers/A%20Gentle%20Intro%20to%20Transformers.ipynb)
+
 
 
 ### 7. [Transformers - Sentiment Analysis](https://github.com/kb1907/NLP_Projects/blob/main/Transformers_Sentiment_Analysis/Transformers_Sentiment_Analysis.ipynb)
@@ -65,6 +65,7 @@
 <img src="https://user-images.githubusercontent.com/51021282/151325004-53a35f53-25b0-43f2-b69f-a6b2a0d0dad4.png" width="400" height="300">
 
 
+
 ### 13. [Emojify](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Sequence%20Models/Week2/Programming%20Assignment_Emoji_v3a.ipynb)
 
 <img src="https://user-images.githubusercontent.com/51021282/151325369-ee65b9e0-6010-4a48-86e4-a5b9f407d66b.png" width="400" height="300">
@@ -77,9 +78,11 @@
 <img src="https://user-images.githubusercontent.com/51021282/151325972-afecac95-0403-48ee-aa6b-c0e35a2eb61c.png" width="400" height="300">
 
 
+
 ### 16. [Transformers Architecture with TensorFlow](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Sequence%20Models/Week4/Programming%20Assignment_Transformer_Subclass_v1.ipynb)
 
 <img src="https://user-images.githubusercontent.com/51021282/151326396-0d372a53-ace6-4144-a727-14a378986a1c.png" width="400" height="300">
+
 
 
 ---------------------------------------
