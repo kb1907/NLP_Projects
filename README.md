@@ -51,7 +51,6 @@
 
 <img src="https://user-images.githubusercontent.com/51021282/151323756-95d89622-02e3-49d8-a43d-45228445e894.png" width="400" height="300">
 
-
 ### 11. [Jazz Improvisation with LSTM](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Sequence%20Models/Week1/Programming%20Assignment_Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb)
 
 <img src="https://user-images.githubusercontent.com/51021282/151324581-84fa75f8-e5da-4c9e-b2ce-048f6d101bb5.png" width="400" height="300">
