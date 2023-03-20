@@ -2,7 +2,6 @@
 ---------------------------------------------------------
 <img src="https://canopylab.com/wp-content/uploads/2019/11/shutterstock_1455391502-2.jpg" width="600" height="500">
 
-
 - In this folder, different scale NLP projects can be found.
 - All the best 🤘
 
