@@ -33,7 +33,6 @@
 
 ### 6. [A Gentle Intro to Transformers](https://github.com/kb1907/NLP_Projects/blob/main/A_Gentle_intro_to_Transformers/A%20Gentle%20Intro%20to%20Transformers.ipynb)
 
-
 ### 7. [Transformers - Sentiment Analysis](https://github.com/kb1907/NLP_Projects/blob/main/Transformers_Sentiment_Analysis/Transformers_Sentiment_Analysis.ipynb)
 
 <img src="https://i.pinimg.com/originals/b8/2b/6f/b82b6f0d01d21a2ca4d91992d941fa90.png" width="400" height="300">
