@@ -5,7 +5,6 @@
 - In this folder, different scale NLP projects can be found.
 - All the best 🤘
 
-
 ## NLP Projects
 --------------------------------------------------------------
 ### 1. [BERT for Text Classification](https://github.com/kb1907/NLP_Projects/blob/main/BERT/BERT_for_Text_Classification_with_TensorFlow.ipynb)
