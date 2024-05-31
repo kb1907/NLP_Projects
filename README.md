@@ -5,7 +5,6 @@
 
 - In this folder, different scale NLP projects can be found.
 - All the best 🤘
-
   
 ## NLP Projects
 --------------------------------------------------------------
