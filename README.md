@@ -3,7 +3,7 @@
 
 <img src="https://github.com/kb1907/kb1907/assets/51021282/b9128907-05cf-4d37-95df-6b9ad2674730" width="300" height="300">
 
-- In this folder, different scale NLP projects can be found.
+- In this folder, different-scale NLP projects can be found.
 - All the best
 
 ## NLP Projects
