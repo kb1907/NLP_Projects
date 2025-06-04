@@ -19,7 +19,7 @@
 ### 3. [Comment Classification by using 1D CNN with Keras](https://github.com/kb1907/NLP_Projects/blob/main/CNN_Text_Classification/Comments_Classification_using_1D_CNN_with_Keras.ipynb)
 
 
-<img src="https://www.researchgate.net/profile/Kamran-Kowsari/publication/332463886/figure/fig23/AS:750926574927874@1556046255189/Convolutional-neural-network-CNN-architecture-for-text-classification.png" width="400" height="300">
+<img src="![comment](https://github.com/user-attachments/assets/dff89106-ed34-477a-9a11-fb3c16b5eac1)" width="400" height="300">
 
 
 ### 4. [Comment Classification by using GRU](https://github.com/kb1907/NLP_Projects/blob/main/GRU_Text_Classification/Comment%20Classification%20by%20Using%20GRU.ipynb)
