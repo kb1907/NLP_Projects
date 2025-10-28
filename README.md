@@ -19,7 +19,6 @@
 
 ### 3. [Comment Classification by using 1D CNN with Keras](https://github.com/kb1907/NLP_Projects/blob/main/CNN_Text_Classification/Comments_Classification_using_1D_CNN_with_Keras.ipynb)
 
-
 <img src="![comment](https://github.com/user-attachments/assets/dff89106-ed34-477a-9a11-fb3c16b5eac1)" width="400" height="300">
 
 
