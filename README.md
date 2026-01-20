@@ -17,6 +17,7 @@
 
 <img src="https://user-images.githubusercontent.com/51021282/149168232-88ff8f9c-2302-4ddd-a56e-13983e2b65d8.png" width="400" height="300">
 
+
 ### 3. [Comment Classification by using 1D CNN with Keras](https://github.com/kb1907/NLP_Projects/blob/main/CNN_Text_Classification/Comments_Classification_using_1D_CNN_with_Keras.ipynb)
 
 <img src="![comment](https://github.com/user-attachments/assets/dff89106-ed34-477a-9a11-fb3c16b5eac1)" width="400" height="300">
