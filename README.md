@@ -143,5 +143,5 @@
 
 
 ------------------------
-All the best 🤘
+All the best
 
